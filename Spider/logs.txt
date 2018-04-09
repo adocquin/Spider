@@ -1,0 +1,27 @@
+Mon Apr  9 13:54:34 2018 | MOUSE: Direction (RIGHT, DOWN) Global Pos (547, 394) Relative Pos (409, 233)
+Mon Apr  9 13:54:34 2018 | MOUSE: Direction (LEFT, DOWN) Global Pos (516, 783) Relative Pos (378, 622)
+Mon Apr  9 13:54:34 2018 | MOUSE: Direction (LEFT, DOWN) Global Pos (486, 887) Relative Pos (348, 726)
+Mon Apr  9 13:54:34 2018 | MOUSE: Direction (LEFT, DOWN) Global Pos (479, 891) Relative Pos (341, 730)
+Mon Apr  9 13:54:35 2018 | MOUSE: Direction (LEFT, DOWN) Global Pos (388, 968) Relative Pos (250, 807)
+Mon Apr  9 13:54:35 2018 | MOUSE: Direction (LEFT, DOWN) Global Pos (382, 1038) Relative Pos (244, 877)
+Mon Apr  9 13:54:35 2018 | MOUSE: Direction (SAME, DOWN) Global Pos (382, 1043) Relative Pos (244, 882)
+Mon Apr  9 13:54:35 2018 | MOUSE: Direction (LEFT, DOWN) Global Pos (380, 1047) Relative Pos (242, 886)
+Mon Apr  9 13:54:35 2018 | MOUSE: Direction (RIGHT, DOWN) Global Pos (387, 1056) Relative Pos (249, 895)
+Mon Apr  9 13:54:35 2018 | MOUSE: Direction (RIGHT, DOWN) Global Pos (402, 1058) Relative Pos (264, 897)
+Mon Apr  9 13:54:35 2018 | MOUSE: Direction (LEFT, UP) Global Pos (399, 1056) Relative Pos (261, 895)
+Mon Apr  9 13:54:35 2018 | MOUSE: Direction (LEFT, UP) Global Pos (361, 1050) Relative Pos (223, 889)
+Mon Apr  9 13:54:35 2018 | MOUSE: Direction (LEFT, SAME) Global Pos (267, 1050) Relative Pos (129, 889)
+Mon Apr  9 13:54:35 2018 | MOUSE: Direction (LEFT, SAME) Global Pos (261, 1050) Relative Pos (123, 889)
+Mon Apr  9 13:54:35 2018 | MOUSE: Direction (LEFT, DOWN) Global Pos (250, 1052) Relative Pos (112, 891)
+Mon Apr  9 13:54:36 2018 | MOUSE: Direction (LEFT, SAME) Global Pos (234, 1052) Relative Pos (96, 891)
+Mon Apr  9 13:54:36 2018 | MOUSE: Direction (LEFT, SAME) Global Pos (231, 1052) Relative Pos (93, 891)
+Mon Apr  9 13:54:36 2018 | PROCESS: 
+Mon Apr  9 13:54:36 2018 | Mon Apr  9 13:54:36 2018 | PROCESS: 
+Mon Apr  9 13:54:36 2018 | PROCESS: Spider (Running) - Microsoft Visual Studio 
+Mon Apr  9 13:54:36 2018 | Mon Apr  9 13:54:36 2018 | PROCESS: Spider (Running) - Microsoft Visual Studio 
+Mon Apr  9 13:54:36 2018 | MOUSE: Direction (RIGHT, UP) Global Pos (448, 454) Relative Pos (448, 454)
+Mon Apr  9 13:54:36 2018 | MOUSE: Direction (RIGHT, UP) Global Pos (578, 130) Relative Pos (578, 130)
+Mon Apr  9 13:54:36 2018 | MOUSE: Direction (RIGHT, UP) Global Pos (615, 72) Relative Pos (615, 72)
+Mon Apr  9 13:54:36 2018 | MOUSE: Direction (RIGHT, UP) Global Pos (631, 66) Relative Pos (631, 66)
+Mon Apr  9 13:54:36 2018 | MOUSE: Direction (RIGHT, SAME) Global Pos (634, 66) Relative Pos (634, 66)
+Mon Apr  9 13:54:36 2018 | MOUSE: LEFT pressed

